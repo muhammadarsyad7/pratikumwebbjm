@@ -60,6 +60,18 @@
                     <span>Laporan</span></a>
             </li>
 
+            <li class="nav-item active">
+    <a class="nav-link" href="/admin/barang-masuk">
+        <i class="fas fa-fw fa-arrow-down text-success"></i>
+        <span>Barang Masuk</span></a>
+</li>
+
+            <li class="nav-item active">
+            <a class="nav-link" href="/admin/barang-keluar">
+            <i class="fas fa-fw fa-box-open"></i>
+            <span>Barang Keluar</span></a>
+            </li>
+
             <!-- Divider -->
             <hr class="sidebar-divider">
             
